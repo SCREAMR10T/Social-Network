@@ -1,0 +1,89 @@
+body {
+    background-color: #f1f5f9;
+}
+
+h2 {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 32px;
+}
+
+.form {
+    position: absolute;
+    padding-top: 32px;
+    position: static;
+    width: 448px;
+    height: 463.56px;
+    margin: auto;
+    margin-top: 8%;
+}
+
+input[type=text] {
+    width: 350px;
+    height: 42px;
+    border: 2px solid;
+    border-color: #eff3f4;
+    border-radius: 6px;
+    padding: 12px 12px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: medium;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    padding: 9px 17px;
+    position: static;
+    width: 350px;
+    height: 42px;
+    left: 40px;
+    top: 389.56px;
+    background: #ef4444;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    margin-bottom: 16px;
+}
+
+input[value] {
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+}
+
+input:disabled {
+    color: #374151;
+    background-color: #e5e7eb;
+    border: 1px solid #6b7280;
+}
+
+a {
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 0;
+    color: #2563eb;
+    text-decoration: none;
+}
+
+input[type=submit]:hover {
+    background: #dc2626;
+}
+
+label {
+    display: block;
+    margin: 0;
+    float: left;
+    padding-bottom: 6px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 600;
+    color: #9ca3af;
+    margin-left: 52px;
+}
