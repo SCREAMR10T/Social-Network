@@ -6,3 +6,5 @@ To run this project you would require:
 3. Basic Web tech. Knowledge
 
 This is not an adavance project. No framework or libraries were used.
+
+SQL file has been added so that creation of database would be easier and changes in code remains minimal. 
